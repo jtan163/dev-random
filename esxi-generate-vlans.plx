@@ -2,7 +2,10 @@
 # Generates esxcli commands to add vlans to a standard (non DVS) switch. 
 # Expects a CSV  for input in the form:
 #<portgroup_name>,<vswitch_name>,<vlanid>
-
+#
+# Author: the-scriptinator
+# You can use this to do what you like
+# But if you get rich using it, please pay me or employ me.
 
 
 
